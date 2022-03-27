@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constants/Constants.iml" filepath="$PROJECT_DIR$/Constants/Constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_IN_EASY_STEPS_5TH_EDITION.iml" filepath="$PROJECT_DIR$/JAVA_IN_EASY_STEPS_5TH_EDITION.iml" />
+    </modules>
+  </component>
+</project>
