@@ -12,9 +12,9 @@ public class Main {
         System.out.println("Проверка строк на неравенство: " + state);
         int dozen = 12;
         int score = 20;
-        state =(dozen > score);
+        state = (dozen > score);
         System.out.println("Проверка на больше: " + state);
-        state =(dozen < score);
+        state = (dozen < score);
         System.out.println("Проверка на меньше: " + state);
     }
 }
